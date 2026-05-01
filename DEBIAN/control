@@ -6,5 +6,5 @@ Priority: standard
 Essential: no
 Depends: 
 Homepage: https://github.com/sensorgnome/fcd
-Maintainer: TvE (tvoneicken@gmail.com)
+Maintainer: Lucas Berrigan (lberrigan@birdcanada.org)
 Description: Control program to set options and update firmware on FuneCube Dongles.
